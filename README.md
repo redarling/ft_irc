@@ -129,4 +129,4 @@ Feel free to fork the repository and submit pull requests for enhancements or bu
 
 ## Acknowledgments
 
-This project was developed collaboratively with [Andrii Syvash](https://github.com/redarling).
+This project was developed collaboratively with [Ismaël Mehdid](https://github.com/ismaelmehdid).
